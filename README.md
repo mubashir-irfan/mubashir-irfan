@@ -1,6 +1,5 @@
-Hi, I'm Mubashir - a Frontend Developer aspiring to grow into a proficinet, well0-rounded Full Stack resource.
-Ever since starting my career in mid 2019, I have mostly been writing HTML, CSS, JavaScript/TypeSycript, RxJS in Angular. These days, my work helps
-Fleet Management companies make a difference in how their phsyical operations are improved.
+Hi, I'm Mubashir - a Frontend Developer aspiring to grow into a proficinet, reliable Full Stack resource.
+Ever since starting my career in mid 2019, I have mostly been writing HTML, CSS, JavaScript/TypeSycript, RxJS in Angular. These days, my work helps Pakistan eliminate the Polio Virus.
 
 I'm also the writer behind UnusedCSS's Frontend [Blog](https://unused-css.com/blog/).
 
