@@ -1,6 +1,4 @@
-Hi, I'm Mubashir - an Exprienced Frontend Developer aspiring to grow into a proficient, reliable Full Stack resource.
-Ever since starting my career in mid 2019, I have mostly been writing HTML, CSS, JavaScript/TypeSycript, RxJS in Angular, React. These days, my work helps Pakistan eliminate the Polio Virus.
-
+I convert ideas and designs into human-centric web applications and developer-centric code - and I have been doing so for the last 5 years. I have extensive experience building Modern Web Applications & Experiences, Responsive Layouts, Human-Centric UIs and Developer-centric Codebases using NextJS, React, Tailwind, Angular 2+. I also hold hands-on knowledge and experience of building NodeJS-powered backends. I am also the writer behind the code blog  of UnUsedCSS - a CSS minifIer based out of London.
 I'm also the writer behind UnusedCSS's Frontend [Blog](https://unused-css.com/blog/).
 
 Looking forward to connect on [LinkedIn](https://www.linkedin.com/in/muhammad-mubashir-irfan/). You can also email me at mubashir.irfan37@gmail.com
